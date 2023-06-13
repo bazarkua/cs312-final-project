@@ -1,5 +1,5 @@
 # Minecraft Server on AWS with Terraform - Tutorial
-
+# [VIDEO LINK](https://youtu.be/jr8LJShSgds)
 ## Background
 This tutorial provides step-by-step instructions to deploy a Minecraft server on an Amazon Web Services (AWS) instance using Terraform, an Infrastructure as Code (IaC) tool. With Terraform, we can automate the creation, management, and deletion of resources.
 
